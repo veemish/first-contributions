@@ -11,7 +11,7 @@ If you're making changes to a translation, please request a review from our prev
 <table>
     <tr>
         <td>
-           <a href="../translations/README.hi.md">हिन्दी</a>
+           <a href="../translaveemistions/README.hi.md">हिन्दी</a>
         </td>
         <td>
            <a href="../translations/README.mr.md">मराठी</a>
