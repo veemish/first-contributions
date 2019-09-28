@@ -14,8 +14,8 @@
 - [cricri777](https://github.com/cricri777)
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
 - [Tyana Stone](https://github.com/tyanastone)
-- [Guilherme Balog](https://github.com/guilhermebalog)
-
+- [Guilherme Balog](https://github.k/guilhermebalog)
+- [veemish](https://github.com/veemish)
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
